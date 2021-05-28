@@ -4,5 +4,6 @@
 
 | Class  | Description |
 | ----------- | ----------- |
-| lab1 | [Growth mindset](lab1.md) |
+| lab1 | [Growth mindset](https://laithsarraf.github.io/reading-notes/lab1) |
 | read1 | [Markdown](read1.md) |
+| read2 | [About Git](read2.md) |
