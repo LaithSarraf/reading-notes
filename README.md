@@ -9,6 +9,6 @@
 | read2 | [About Git](read2.md) |
 | read3 |  [Structure web pages with HTML](read3.md) |
 | read4 | [Dynamic web pages with JavaScript](read4.md)| 
-| read5 | [Loops and Operators](read5.md)| 
+| lab5 | [Loops & Functions](https://laithsarraf.github.io/reading-notes/read5) |
 
 
