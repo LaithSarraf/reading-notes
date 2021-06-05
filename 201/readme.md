@@ -4,9 +4,9 @@
 
 | Class  | Description |
 | ----------- | ----------- |
-| lab1 | [Growth mindset](https://laithsarraf.github.io/reading-notes/lab1) |
-| read1 | [Markdown](201/read1.md) |
-| read2 | [About Git](201/read2.md) |
-| read3 |  [Structure web pages with HTML](201/read3.md) |
-| read4 | [Dynamic web pages with JavaScript](201/read4.md)| 
-| read5 | [Loops and Operators](201/read5.md)| 
+| lab1 | [](https://laithsarraf.github.io/reading-notes/lab1) |
+| read1 | [](201/read1.md) |
+| read2 | [](201/read2.md) |
+| read3 |  [](201/read3.md) |
+| read4 | [](201/read4.md)| 
+| read5 | [](201/read5.md)| 
