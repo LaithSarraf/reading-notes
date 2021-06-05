@@ -5,19 +5,16 @@
 | Class  | Description |
 | ----------- | ----------- |
 | lab1 | [Growth mindset](https://laithsarraf.github.io/reading-notes/lab1) |
-<<<<<<< HEAD:102/README.md
 | read1 | [Markdown](read1.md) |
 | read2 | [About Git](read2.md) |
 | read3 |  [Structure web pages with HTML](read3.md) |
 | read4 | [Dynamic web pages with JavaScript](read4.md)| 
 | read5 | [Loops and Operators](read5.md)| 
 | read6 | [Programming with JavaScript](read6.md)|
-=======
-| read1 | [Markdown](https://laithsarraf.github.io/reading-notes/read1) |
-| read2 | [About Git](https://laithsarraf.github.io/reading-notes/read2) |
-| read3 |  [Structure web pages with HTML](https://laithsarraf.github.io/reading-notes/read3) |
-| read4 | [Dynamic web pages with JavaScript](https://laithsarraf.github.io/reading-notes/read4)| 
-| read5 | [Loops & Functions](https://laithsarraf.github.io/reading-notes/read5) |
+| read6b | [Design web pages with CSS](read6b.md)|
 
 
->>>>>>> c2efcabee83ff6e691e432a6747d153b55ce6e1f:README.md
+
+
+
+
