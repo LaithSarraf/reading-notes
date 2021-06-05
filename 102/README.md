@@ -13,8 +13,3 @@
 | read6 | [Programming with JavaScript](read6.md)|
 | read6b | [Design web pages with CSS](read6b.md)|
 
-
-
-
-
-
