@@ -8,9 +8,6 @@
 | read1 | [Markdown](read1.md) |
 | read2 | [About Git](read2.md) |
 | read3 |  [Structure web pages with HTML](read3.md) |
-<<<<<<< HEAD
-| read4 | [Dynamic web pages with JavaScript](read4.md) |
-| read5 | [Dynamic web pages with JavaScript](read5.md) |
-=======
-| read4 | [Dynamic web pages with JavaScript](read4.md) |
->>>>>>> 8d740fcd12a7050d6e2d554a93d665a5db1c42e7
+| read4 | [Dynamic web pages with JavaScript](read4.md)| 
+| read5 | [Loops and Operators](read5.md)| 
+| read6 | [Programming with JavaScript](read6.md)|
